@@ -1,0 +1,26 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size : 40pt;
+}
+.a{
+    font-size:30pt;
+}
+div{
+    color:aquamarine;
+}
+p{
+    color:blueviolet;
+}
+input[disabled]{
+    width:400px;
+    height:100px;
+
+}
+input[type="text"]{
+    height:100px;
+    width:400px;
+    
+}
+#c{
+    background-color: antiquewhite;
+}
